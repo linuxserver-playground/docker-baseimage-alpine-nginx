@@ -1,6 +1,7 @@
 # The manifest for docker-baseimage-alpine-nginx. Schema: https://github.com/linuxserver-playground/builder/blob/main/schemas/image.schema.json
 schema: 1
 name: baseimage-alpine-nginx
+kind: base
 
 summary: baseimage-alpine-nginx container image.
 
