@@ -34,7 +34,7 @@ libbz2                  1.0.8-r6          apk
 libcrypto3              3.5.9-r1          apk           
 libcurl                 8.23.0-r0         apk           
 libedit                 20260508.3.1-r1   apk           
-libexpat                2.10.0-r0         apk           
+libexpat                2.11.0-r0         apk           
 libidn2                 2.3.8-r0          apk           
 libintl                 1.0-r0            apk           
 libmd                   1.2.0-r0          apk           
@@ -54,7 +54,7 @@ nano                    9.3-r0            apk
 ncurses-terminfo-base   6.6_p20260516-r0  apk           
 netcat-openbsd          1.234.1-r0        apk           
 nghttp2-libs            1.70.0-r0         apk           
-nginx                   1.30.7-r0         apk           
+nginx                   1.30.8-r0         apk           
 oniguruma               6.9.10-r0         apk           
 openssl                 3.5.9-r1          apk           
 pcre2                   10.49-r0          apk           
@@ -77,11 +77,11 @@ popt                    1.19-r4           apk
 procps-ng               4.0.6-r0          apk           
 readline                8.3.3-r1          apk           
 scanelf                 1.3.9-r1          apk           
-shadow                  4.18.0-r1         apk           
+shadow                  4.20.4-r0         apk           
 skalibs-libs            2.15.0.0-r0       apk           
 ssl_client              1.37.0-r31        apk           
 tzdata                  2026f-r0          apk           
 utmps-libs              0.1.3.3-r0        apk           
 xz-libs                 5.8.4-r0          apk           
 zlib                    1.4-r0            apk           
-zstd-libs               1.5.7-r2          apk           
+zstd-libs               1.6.0-r1          apk           
